@@ -1,0 +1,4 @@
+- name: "openai-proxy"
+  uri: "ghcr.io/peterwwillis/localai-backend-openai:latest"
+  alias: "proxy"
+  description: "OpenAI Proxy Backend for LocalAI"
